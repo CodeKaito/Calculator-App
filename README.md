@@ -21,7 +21,7 @@ The calculator app is built using JavaScript and DOM manipulation. Here is a bri
 - There are two additional buttons - `percent` and `negative` - that modify the values and the result in specific ways.
 - Finally, the `clear` button resets all the values and the result to their original states.
 
-## Future Improvements
+## Future Improvements.
 
 - The calculator could be improved to handle more complex operations, such as parentheses and exponents.
 - The code could be refactored to make it more efficient and easier to read.
